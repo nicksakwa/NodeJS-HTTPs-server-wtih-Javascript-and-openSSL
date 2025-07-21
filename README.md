@@ -11,7 +11,7 @@ Here I share a NodeJS HTTP server project with Javascript
 To execute the app in this repository
 
 1.  Navigate to the directory containing the  files in your terminal.
-2.  Run the desired script using the Python interpreter:
+2.  Run the desired script in the terminal:
     ```bash
     npm start
     ```
