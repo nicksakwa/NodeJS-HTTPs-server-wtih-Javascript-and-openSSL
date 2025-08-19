@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const https = require('https');
 const fs = require('fs');
 
@@ -31,3 +32,26 @@ server.on('error', (err) => {
     console.error(`Server error: ${err.message}`);
   }
 });
+=======
+# Hey there! 👋
+Here I share a NodeJS HTTP server project with Javascript
+# NodeJS HTTP Server with Javascript
+
+
+## Requirements
+*  Nodejs
+    ```bash
+    npm install express
+    ```
+To execute the app in this repository
+
+1.  Navigate to the directory containing the  files in your terminal.
+2.  Run the desired script in the terminal:
+    ```bash
+    npm start
+    ```
+Runs the app in the development mode.\
+
+    
+    
+>>>>>>> 10871f1b4cce2274581f954c2e93c6b43bb5a323
